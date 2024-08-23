@@ -140,3 +140,7 @@ app.*.symbols
 !.vscode/settings.json
 
 /.firebase/
+
+.env
+
+/node_modules/

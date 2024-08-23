@@ -19,6 +19,20 @@ dependencies:
 
   google_fonts: ^6.2.1
 
+  cupertino_icons: ^1.0.0
+
+  roslibdart: ^0.0.1-dev+4
+
+  dotenv: ^4.2.0
+
+  fluttertoast: ^8.2.6
+
+  image: ^4.1.7
+
+  flutter_rviz: ^0.0.2
+
+  lottie: ^3.1.2
+
 
 dev_dependencies:
   flutter_test:
@@ -28,3 +42,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/media/qr_payment.jpg
+    - assets/media/navigation.json

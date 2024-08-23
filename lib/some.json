@@ -1,0 +1,45 @@
+{status_list: [
+        {goal_info: 
+            {goal_id: {uuid: PlZiEFakpx6eDNkN3VDzWA==
+                }, stamp: {sec: 1724075673, nanosec: 735927984
+                }
+            }, 
+            status: 4
+        },
+        {goal_info: {goal_id: {uuid: qj+fMZU2t738m/f2wAM4ng==
+                }, stamp: {sec: 1724075845, nanosec: 731983366
+                }
+            }, status: 4
+        },
+        {goal_info: {goal_id: {uuid: 6eJCF2qEBcW5zLJUJeUN8Q==
+                }, stamp: {sec: 1724075906, nanosec: 836683584
+                }
+            }, status: 4
+        },
+        {goal_info: {goal_id: {uuid: K4orHgsESCD2db9hAVtdkA==
+                }, stamp: {sec: 1724076068, nanosec: 213979056
+                }
+            }, status: 4
+        },
+        {goal_info: {goal_id: {uuid: yMpZCINfDiJDajM/9KrUvg==
+                }, stamp: {sec: 1724076173, nanosec: 971046297
+                }
+            }, status: 4
+        },
+        {goal_info: {goal_id: {uuid: FEygJGDDng9LNh9QlcWNtw==
+                }, stamp: {sec: 1724076248, nanosec: 514102005
+                }
+            }, status: 4
+        },
+        {goal_info: {goal_id: {uuid: 8iEiY4FiomeombHwu0anKA==
+                }, stamp: {sec: 1724076335, nanosec: 126902974
+                }
+            }, status: 6
+        },
+        {goal_info: {goal_id: {uuid: Q0jVdg2rzkZPt+l9nypzqw==
+                }, stamp: {sec: 1724076370, nanosec: 584907557
+                }
+            }, status: 2
+        }
+    ]
+}
